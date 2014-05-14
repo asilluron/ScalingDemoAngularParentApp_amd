@@ -1,0 +1,12 @@
+{
+	"hashbang": {
+		"$filter": "env",
+		"production": {
+			"$value": false
+		},
+		"nonproduction": {
+			"$value": true
+		}
+
+	}
+}

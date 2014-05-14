@@ -1,0 +1,45 @@
+{
+  "name": "AngularParentApp_cjs",
+  "version": "0.0.0",
+  "description": "ScalingDemoAngularParentApp_cjs ===============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asilluron/ScalingDemoAngularParentApp_cjs.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-karma": "~0.8.3",
+    "grunt-contrib-requirejs": "~0.4.4",
+    "grunt-angular-templates": "~0.5.4",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-confidence": "0.0.2",
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-bower-task": "~0.3.4",
+    "deepmerge": "~0.2.7",
+    "grunt-i18n": "~0.6.0",
+    "grunt-concurrent": "~0.5.0",
+    "grunt-contrib-yuidoc": "~0.5.2",
+    "karma": "~0.12.16",
+    "karma-coverage": "~0.2.1",
+    "requirejs": "~2.1.11",
+    "karma-requirejs": "~0.2.1",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-open": "~0.2.3"
+  },
+  "author": "Andrew Silluron",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/asilluron/ScalingDemoAngularParentApp_cjs/issues"
+  },
+  "homepage": "https://github.com/asilluron/ScalingDemoAngularParentApp_cjs"
+}

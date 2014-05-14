@@ -1,0 +1,1 @@
+define([], function () { var config = {"hashbang":true} ; return config; });

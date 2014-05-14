@@ -1,0 +1,21 @@
+{
+  "name": "AngularParentApp_amd",
+  "version": "0.0.0",
+  "homepage": "https://github.com/asilluron/ScalingDemoAngularParentApp_amd",
+  "authors": [
+    "Andrew Silluron"
+  ],
+  "main": "dist/app.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.2.16",
+    "angular-ui-router": "~0.2.10",
+    "blog-resources": "git://github.com/asilluron/ScalingDemoAngularSubAppModel2_amd#v0.0.0",
+    "blog-content": "git://github.com/asilluron/ScalingDemoAngularSubApp_amd#v0.0.0",
+    "requirejs": "~2.1.11"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.16"
+  }
+}

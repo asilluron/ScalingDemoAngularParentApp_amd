@@ -1,4 +1,4 @@
-ScalingDemoAngularParentApp_amd
+ScalingDemoAngularParentApp_cjs
 ===============================
 
-Top level, parent app for scaling angular demo series. AMD Edition
+Scaling Angular demo app. Parent App using Browserify
